@@ -39,7 +39,7 @@ form {
 <div>
 <form>
    무너의 하루에 오신 것을 환영합니다!<br/><br/>
-   <button class = "span" type = "button" onclick="location.href='login.jsp'">무너와 함께하러 가기</button>
+   <button class = "span" type = "button" onclick="location.href='title.jsp'">무너와 함께하러 가기</button>
 </form>
 </div>
    
